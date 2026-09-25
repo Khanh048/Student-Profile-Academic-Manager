@@ -1,0 +1,7 @@
+<resources>
+    <color name="background">#111827</color>
+    <color name="surface">#1F2937</color>
+    <color name="primary">#34B469</color>
+    <color name="text_primary">#F9FAFB</color>
+    <color name="text_secondary">#D1D5DB</color>
+</resources>
