@@ -17,7 +17,7 @@
 ## Công nghệ và cấu hình
 
 - Kotlin với giao diện XML truyền thống
-- Android Gradle Plugin 9.4.0, Gradle 9.6.0
+- Android Gradle Plugin 9.3.0, Gradle 9.5.0
 - `compileSdk`/`targetSdk`: 37; `minSdk`: 24
 - AndroidX AppCompat, Core KTX và CardView
 
