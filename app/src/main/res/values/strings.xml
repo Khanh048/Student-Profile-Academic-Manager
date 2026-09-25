@@ -8,9 +8,15 @@
     <string name="default_student_details">MSSV: 22505120005  •  Lớp: 22CT111</string>
     <string name="default_student_email">an.nv@ute.udn.vn</string>
     <string name="default_gpa_badge">3.75 GPA  •  Xuất sắc</string>
+    <string name="student_details_format">MSSV: %1$s  •  Lớp: %2$s</string>
+    <string name="gpa_badge_format">%1$.2f GPA  •  %2$s</string>
     <string name="update_section_title">Cập nhật điểm GPA</string>
     <string name="update_section_description">Nhập điểm tích lũy mới trong khoảng từ 0.0 đến 4.0</string>
     <string name="gpa_hint">Ví dụ: 3.85</string>
+    <string name="ranking_preview">Dự kiến: %1$s</string>
+    <string name="gpa_validation_error">GPA phải từ 0.0 đến 4.0</string>
+    <string name="invalid_gpa_message">Điểm số không hợp lệ, vui lòng kiểm tra lại!</string>
+    <string name="update_success">Cập nhật GPA thành công!</string>
     <string name="update_gpa">Cập nhật GPA</string>
     <string name="reset_default">Khôi phục</string>
     <string name="send_report">Gửi báo cáo</string>
