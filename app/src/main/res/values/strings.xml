@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Student Profile</string>
+    <string name="screen_eyebrow">Academic Manager</string>
+    <string name="screen_title">Hồ sơ sinh viên</string>
+    <string name="screen_subtitle">Quản lý thông tin cá nhân và kết quả học tập</string>
+    <string name="avatar_content_description">Ảnh đại diện sinh viên</string>
+    <string name="default_student_name">Nguyễn Văn An</string>
+    <string name="default_student_details">MSSV: 22505120005  •  Lớp: 22CT111</string>
+    <string name="default_student_email">an.nv@ute.udn.vn</string>
+    <string name="default_gpa_badge">3.75 GPA  •  Xuất sắc</string>
+    <string name="update_section_title">Cập nhật điểm GPA</string>
+    <string name="update_section_description">Nhập điểm tích lũy mới trong khoảng từ 0.0 đến 4.0</string>
+    <string name="gpa_hint">Ví dụ: 3.85</string>
+    <string name="update_gpa">Cập nhật GPA</string>
+    <string name="reset_default">Khôi phục</string>
+    <string name="send_report">Gửi báo cáo</string>
 </resources>
