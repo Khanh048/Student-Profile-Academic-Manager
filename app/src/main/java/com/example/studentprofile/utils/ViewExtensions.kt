@@ -1,9 +1,11 @@
 package com.example.studentprofile.utils
 
 import android.content.Context
+import android.graphics.Color
 import android.view.View
 import android.widget.EditText
 import android.widget.Toast
+import androidx.annotation.ColorInt
 
 fun View.show() {
     visibility = View.VISIBLE
@@ -31,3 +33,13 @@ fun Double.toAcademicRanking(): String = when {
     this >= 1.0 -> "Yếu"
     else -> "Kém"
 }
+
+@ColorInt
+fun Double.toRankingColor(): Int = Color.parseColor(
+    when {
+        this >= 3.6 -> "#34B469"
+        this >= 3.2 -> "#00BCD4"
+        this >= 2.5 -> "#FF9800"
+        else -> "#F44336"
+    }
+)

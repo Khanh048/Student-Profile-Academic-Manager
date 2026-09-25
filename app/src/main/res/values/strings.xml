@@ -20,4 +20,12 @@
     <string name="update_gpa">Cập nhật GPA</string>
     <string name="reset_default">Khôi phục</string>
     <string name="send_report">Gửi báo cáo</string>
+    <string name="reset_dialog_title">Xác nhận khôi phục</string>
+    <string name="reset_dialog_message">Bạn có chắc chắn muốn đặt lại điểm GPA ban đầu (%1$.2f) không?</string>
+    <string name="cancel">Hủy</string>
+    <string name="confirm">Đồng ý</string>
+    <string name="reset_success">Đã khôi phục dữ liệu mặc định!</string>
+    <string name="email_subject">[Báo cáo học tập] Sinh viên %1$s - MSSV %2$s</string>
+    <string name="email_body">Họ tên: %1$s\nLớp: %2$s\nĐiểm GPA: %3$.2f\nXếp loại: %4$s</string>
+    <string name="no_email_app">Không tìm thấy ứng dụng email trên thiết bị.</string>
 </resources>
