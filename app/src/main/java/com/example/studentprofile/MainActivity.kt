@@ -23,10 +23,10 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
     private val defaultStudent = Student(
-        id = "22505120005",
-        name = "Nguyễn Văn An",
-        className = "22CT111",
-        email = "an.nv@ute.udn.vn",
+        id = "2415053122121",
+        name = "Võ Quốc Khánh",
+        className = "126TLTTD01",
+        email = "2415053122121@sv.ute.udn.vn",
         gpa = 3.75
     )
     private var currentStudent = defaultStudent

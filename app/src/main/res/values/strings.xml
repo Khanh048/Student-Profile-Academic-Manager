@@ -4,9 +4,9 @@
     <string name="screen_title">Hồ sơ sinh viên</string>
     <string name="screen_subtitle">Quản lý thông tin cá nhân và kết quả học tập</string>
     <string name="avatar_content_description">Ảnh đại diện sinh viên</string>
-    <string name="default_student_name">Nguyễn Văn An</string>
-    <string name="default_student_details">MSSV: 22505120005  •  Lớp: 22CT111</string>
-    <string name="default_student_email">an.nv@ute.udn.vn</string>
+    <string name="default_student_name">Võ Quốc Khánh</string>
+    <string name="default_student_details">MSSV: 2415053122121  •  Lớp: 126TLTTD01</string>
+    <string name="default_student_email">2415053122121@sv.ute.udn.vn</string>
     <string name="default_gpa_badge">3.75 GPA  •  Xuất sắc</string>
     <string name="student_details_format">MSSV: %1$s  •  Lớp: %2$s</string>
     <string name="gpa_badge_format">%1$.2f GPA  •  %2$s</string>

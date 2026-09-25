@@ -61,8 +61,8 @@ APK debug được tạo tại `app/build/outputs/apk/debug/app-debug.apk`.
 
 ## Dữ liệu mẫu
 
-- Họ tên: Nguyễn Văn An
-- MSSV: 22505120005
-- Lớp: 22CT111
-- Email: an.nv@ute.udn.vn
+- Họ tên: Võ Quốc Khánh
+- MSSV: 2415053122121
+- Lớp: 126TLTTD01
+- Email: 2415053122121@sv.ute.udn.vn
 - GPA mặc định: 3.75
